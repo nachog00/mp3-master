@@ -1,0 +1,15 @@
+{
+  "name": "mp3-master",
+  "version": "0.0.1",
+  "description": "I have bought an mp3 player. I like to download youtube videos as audio files into it. Making it manually took too long. This app should help with that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "keywords": [
+    "mp3"
+  ],
+  "author": "NachoGeo",
+  "license": "MIT"
+}

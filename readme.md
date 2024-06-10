@@ -12,8 +12,9 @@
 ## Tech Stack
 
 ### Frontend
-Not sure yet
+- Electron
 
 ### Backend
 - Python
 - Flask
+- pytube
